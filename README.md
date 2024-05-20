@@ -24,5 +24,5 @@ git clone https://github.com/BrunoSapalacio/Contador_de_Namoro.git
 ![Live](https://user-images.githubusercontent.com/64747697/154183794-96784776-b0bd-4e2a-9525-ca181c52984d.jpg)
 
 # Prints
-![Pagina1](https://user-images.githubusercontent.com/64747697/154368410-6c39227a-1a8c-4199-b124-e5c3b4804da2.png)
-![Pagina2](https://user-images.githubusercontent.com/64747697/154368422-369b9c25-5fde-4bd9-ab8f-001614139ab8.png)
+![image](https://github.com/thaiscris24/contador-de-Namoro/assets/114692153/85f94074-0a0d-4f7e-a76a-cd819a180356)
+
